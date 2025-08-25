@@ -27,10 +27,7 @@ Check out our comparison sheet
 Where Can I Buy PRivaCY Coin?:
 
 - <https://Privacydex.io> Minimum buy 100 PRCY Withdraw fee 0.00
-- <https://TradeOgre.com> Minimum 10 PRCY Withdraw fee 0.01 PRCY
-- <https://Polarity.exchange> Minimum 6 PRCY / Withdraw fee 0,01 USDT
 - <https://Dex-trade.com> Minimum 6 PRCY Withdraw fee 0.01 PRCY
-- <https://Txbit.io> Minimum 10 PRCY Withdraw fee 0.00 PRCY
 - CoinMarketCap: <https://coinmarketcap.com/currencies/prcy-coin/>
 - CoinGecko: <https://www.coingecko.com/en/coins/prcy-coin>
 
